@@ -16,6 +16,7 @@ When the time on the top left ends, you will see two options: "Yeniden Başla" (
 Learn with fun!
 
 Presentation Video: https://www.youtube.com/watch?v=hjwsKTCskKY&t=3s
+
 Game download link: https://aydinalperenn.itch.io/matematik-oyunu-math-game
 
 
@@ -34,4 +35,5 @@ Sol üstteki süre bittiği zaman karşınıza iki seçenek gelir: "Yeniden Baş
 Eğlenerek öğren!
 
 Sunum Videosu: https://www.youtube.com/watch?v=hjwsKTCskKY&t=3s
+
 Oyunun indirme linki: https://aydinalperenn.itch.io/matematik-oyunu-math-game
