@@ -14,6 +14,7 @@ Each correct answer is 10 points, wrong answer is -5 points.
 When the time on the top left ends, you will see two options: "Yeniden Başla" (Restart) and "Ana Menü" (Main Menu).
 
 Learn with fun!
+<br\>
 
 Presentation Video: https://www.youtube.com/watch?v=hjwsKTCskKY&t=3s
 
