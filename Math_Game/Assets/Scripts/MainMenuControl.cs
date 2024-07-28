@@ -6,6 +6,8 @@ using UnityEngine.UI;
 
 public class MainMenuControl : MonoBehaviour
 {
+    [SerializeField] private GameObject settings;
+    private bool isSettingsActive;
 
     public void StartButtonClick()
     {
@@ -15,5 +17,19 @@ public class MainMenuControl : MonoBehaviour
     public void ExitButtonClick()
     {
         Application.Quit();
+    }
+
+    public void OpenSettings()
+    {
+        if (isSettingsActive)
+        {
+            settings.SetActive(false);
+            isSettingsActive = false;
+        }
+        else
+        {
+            settings.SetActive(true);
+            isSettingsActive = true;
+        }
     }
 }
